@@ -1,28 +1,26 @@
-# care-cloud-http-server
+# CARe-cloud-http-server
 
-A Java server running on the Tomcat of cloud server.
+☁️ Java back-end of *CARe*.
 
-Author : Mr Dk. Coop. with _ZongHua_, _Lewis_
+Author: [@mrdrivingduck](https://github.com/mrdrivingduck).
 
-Created : 2018.6.30, Nanjing, Jiangsu
+2018.03 - 2018.08, Nanjing
 
-Updated : 2018.8.31, Nanjing, Jiangsu
+---
 
-------
+## About
 
-### About
+Product of 7th *China Sofeware Cup* competition. The Java-8 HTTP back-end of *CARe* running on cloud server.
 
-- Handling _HTTP_ request from Android client
-  - Developer : _Mr Dk._
-  - IDE : `Eclipse Jee Oxygen - April, 2018`
-  - Programming language : `Java`
-  - Environment : `Apache Tomcat 8.5.24`
+It is used for handling HTTP request from *CARe* Android client. It is developed on [*Eclipse*](https://www.eclipse.org/downloads/) (Jee Oxygen, April 2018), and running on [*Apache Tomcat*](https://tomcat.apache.org/) 8.5.24.
 
-------
+## Documentation
 
-### Documents
+See `docs/`.
 
-- See `docs/`
+## License
+
+Copyright © 2018, Jingtang Zhang, Hua Zong, Hong Lu. ([MIT License](LICENSE))
 
 ---
 
