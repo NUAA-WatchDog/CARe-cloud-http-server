@@ -8,7 +8,7 @@
 
 ## About
 
-Product of 7th *China Sofeware Cup* competition. The Java-8 HTTP back-end of *CARe* running on cloud server.
+Product of 7th [*China Sofeware Cup*](http://www.cnsoftbei.com/) competition. The Java-8 HTTP back-end of *CARe* running on cloud server.
 
 It is used for handling HTTP request from *CARe* Android client. It is developed on [*Eclipse*](https://www.eclipse.org/downloads/) (Jee Oxygen, April 2018), and running on [*Apache Tomcat*](https://tomcat.apache.org/) 8.5.24.
 
